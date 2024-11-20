@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class Animation : MonoBehaviour
+public class mAnimation : MonoBehaviour
 {
 public InputActionAsset matildasPlayerAction;
 public Animator matildasAnimator;
